@@ -1,0 +1,57 @@
+body{
+    position: relative;
+    background-image: url("../create_token.png");
+    background-repeat: no-repeat;
+    /* background-size: 1550px; */
+    background-size: cover;
+  
+}
+
+
+main{
+    padding-top: 150px;
+}
+header{
+    background-color: black;
+    height: 300px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+div{
+    position: relative;
+    left: 600px;
+    bottom: 150px;
+}
+button{
+    position: relative;
+    top: 20px;
+    left: 60px;
+    background-color: skyblue;
+    cursor: grab;
+    margin: 10px;
+    padding: 10px;
+    
+}
+img{
+    position: relative;
+    height: 7vh;
+    top: 5px;
+    left: 670px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+input{
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+}
+#cnt{
+    position: relative;
+    left: 12px;
+}
